@@ -5,7 +5,7 @@ Refer to my video #218 https://youtu.be/n4l9TLJuL0Q
 
 I'm triggering the Arduino using a dual MOSFET auto on/off configuration with a single switch. 
 
-<img src="images/IMG_20191113_084906.jpg" width="25%">
+<img src="images/IMG_20191113_084906.jpg" width="50%">
 
 But I need to add a further switch so how to I enable the Arduino to detect which switch did the triggering?
 
